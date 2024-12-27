@@ -1,7 +1,7 @@
 # 📚 Library Management System
 
 ## ✨ Overview
-This application implements a Library Management System for IIITD using Object-Oriented Programming (OOP) principles. It provides functionalities for both librarians and members to manage and interact with the library system effectively.
+This application implements a Library Management System  using Object-Oriented Programming (OOP) principles. It provides functionalities for both librarians and members to manage and interact with the library system effectively.
 
 ## ⚖️ Features
 - **📖 Librarian functionalities**:
